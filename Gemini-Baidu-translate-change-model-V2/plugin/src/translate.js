@@ -1,1 +1,384 @@
-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
+load("language_list.js");
+// xử lý apikey
+var apiKeys = [];
+try {
+    if (typeof api_keys !== 'undefined' && api_keys) {
+        let clean_api_keys = api_keys;
+        clean_api_keys = clean_api_keys.replace(/^"([\s\S]*)"$/, "$1");
+        apiKeys = (clean_api_keys || "").split('\n')
+            .map(function(k) { return k.trim(); })
+            .filter(function(k) { return k !== ""; });
+    }
+} catch (e) {}
+//xử lý model lưu chương
+var cacheableModels = [];
+try {
+    if (typeof modelsavecache !== 'undefined' && modelsavecache) {
+        let clean_modelsavecache = modelsavecache;
+        clean_modelsavecache = clean_modelsavecache.replace(/^"([\s\S]*)"$/, "$1");
+        cacheableModels = (clean_modelsavecache || "").split('\n')
+            .map(function(k) { return k.trim(); })
+            .filter(function(k) { return k !== ""; });
+    }
+} catch (e) {}
+
+load("prompt.js");
+
+load("baidutranslate.js");
+
+let modelsucess = "";
+let models = [
+    "gemini-2.5-flash-preview-05-20",
+    "gemini-2.5-flash-lite"
+];
+
+function generateFingerprintCacheKey(lines) {
+    let keyParts = "";
+    let linesForId = lines.slice(0, 5);
+    for (let i = 0; i < linesForId.length; i++) {
+        let line = linesForId[i].trim();
+        if (line.length >= 6) {
+            keyParts += line.substring(0, 3) + line.slice(-3);
+        } else {
+            keyParts += line;
+        }
+    }
+    return "vbook_fp_cache_" + keyParts;
+}
+
+// hàm gọi api
+function callGeminiAPI(text, prompt, apiKey, model) {
+    if (!apiKey) { return { status: "error", message: "API Key không hợp lệ." }; }
+    if (!text || text.trim() === '') { return { status: "success", data: "" }; }
+    modelsucess = model;
+    let maxop = 65536;
+    if (model === "gemini-2.0-flash-exp" || model === "gemini-2.0-flash-thinking-exp-01-21" || model === "gemini-2.0-flash-lite-001" || model === "gemini-2.0-flash-001" ) maxop = 8192
+    let full_prompt = prompt + "\n\nDưới đây là văn bản cần xử lý\n\n" + text;
+    var url = "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent?key=" + apiKey;
+    var body = {
+        "contents": [{ "role": "user", "parts": [{ "text": full_prompt }] }],
+        "generationConfig": { "temperature": parseFloat(temp), "topP": parseFloat(topP), "topK": parseFloat(topK), "maxOutputTokens":parseInt(maxop) },
+        "safetySettings": [
+            { "category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE" },
+            { "category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE" },
+            { "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE" },
+            { "category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE" }
+        ]
+    };
+    try {
+        let response = fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+
+        if (response.ok) {
+            let result = response.json();
+            if (result.candidates && result.candidates.length > 0) {
+                let candidate = result.candidates[0];
+                if (candidate.finishReason === "MAX_TOKENS") {
+                    return { status: "error", message: "Dịch bị cắt ngắn do đạt giới hạn token (MAX_TOKENS)." };
+                }
+                if (candidate.content && candidate.content.parts && candidate.content.parts.length > 0 && candidate.content.parts[0].text) {
+                    let textResult = candidate.content.parts[0].text.trim();
+                    return { status: "success", data: textResult };
+                }
+            }
+            if (result.promptFeedback && result.promptFeedback.blockReason) { return { status: "blocked", message: "Bị chặn bởi Safety Settings: " + result.promptFeedback.blockReason }; }
+            if (result.candidates && result.candidates.length > 0 && (!result.candidates[0].content || !result.candidates[0].content.parts)) { return { status: "blocked", message: "Bị chặn (không có nội dung trả về)." }; }
+            return { status: "error", message: "API không trả về nội dung hợp lệ. Phản hồi: " };
+        } else {
+            return { status: "key_error", message: "Lỗi HTTP " + response.status + ". Phản hồi từ server:\n" };
+        }
+    } catch (e) { return { status: "error", message: "Ngoại lệ Javascript: " + e.toString() }; }
+}
+// hàm quản lý gọi api
+function translateChunkWithApiRetry(chunkText, prompt, modelToUse, keysToTry, from, to) {
+    let keyErrors = [];
+    for (let i = 0; i < keysToTry.length; i++) {
+        let apiKeyToUse = keysToTry[i];
+        let result = callGeminiAPI(chunkText, prompt, apiKeyToUse, modelToUse);
+
+        if (result.status === "success") {
+            const hanTuRegex = /[\u4e00-\u9fff]/;
+            if (hanTuRegex.test(result.data)) {
+                let chunklines = result.data.split('\n');
+                let processedLines = [];
+
+                for (let i = 0; i < chunklines.length; i++) {
+                    let chunkline = chunklines[i];
+                    if (hanTuRegex.test(chunkline)) {
+                        let reTransChunkLine = callGeminiAPI(chunkline, prompt, apiKeyToUse, modelToUse);
+                        if (reTransChunkLine.status === 'success' && !hanTuRegex.test(reTransChunkLine.data)) {
+                            processedLines.push(reTransChunkLine.data);
+                        } else {
+                            processedLines.push(chunkline);
+                        }
+                    } else {
+                        processedLines.push(chunkline);
+                    }
+                }
+                result.data = processedLines.join('\n');
+            }
+
+            if ((result.data.length / chunkText.length) < 0.5) {
+                result.status = "short_result_error";
+                result.message = "Kết quả trả về ngắn hơn 50% so với văn bản gốc.";
+            }
+
+            if (result.status === "success") {
+                return result;
+            }
+        }
+
+        keyErrors.push("  + Key " + (i + 1) + " (" + apiKeyToUse.substring(0, 4) + "...):\n    " + result.message.replace(/\n/g, '\n    '));
+        if (i < keysToTry.length - 1) {
+            try { sleep(100); } catch (e) {}
+        }
+    }
+    return {
+        status: 'all_keys_failed',
+        message: 'Tất cả API keys đều thất bại cho chunk này.',
+        details: keyErrors
+    };
+}
+
+function execute(text, from, to) {
+// xử lý prompt
+    try {
+        const defaultPrompt2 = "<VAI_TRÒ>\nBạn là một **CHUYÊN GIA VIẾT TRUYỆN NGƯỜI LỚN**. Kỹ năng của bạn là sử dụng ngôn từ *táo bạo, trần trụi* để miêu tả *sâu sắc* tâm lý, cảm xúc và hành động của nhân vật một cách chân thực và gợi cảm.\n</VAI_TRÒ>\n\n<MỤC_TIÊU>\n*Nhiệm vụ* chính của bạn là chuyển thể một văn bản được cung cấp thành một tác phẩm truyện người lớn *hoàn chỉnh bằng tiếng Việt thuần túy*. *Mục tiêu* là tạo ra một câu chuyện hấp dẫn, tập trung vào ngôn ngữ thẳng thắn và tâm lý sâu sắc, **thay vì dịch thuật từng từ một cách máy móc**.\n</MỤC_TIÊU>\n\n<BỐI_CẢNH>\nNgười dùng sẽ cung cấp một văn bản gốc dưới dạng Hán-Việt hỗn hợp. Bạn cần phải *viết lại* đoạn văn đó, biến nó thành một câu chuyện có hồn, mượt mà và phù hợp với độc giả Việt Nam.\n</BỐI_CẢNH>\n\n<HƯỚNG_DẪN>\nĐể hoàn thành mục tiêu, hãy tuân theo quy trình tư duy 3 bước sau:\n\n1.  **Phân tích và Thấu hiểu:** Đọc toàn bộ văn bản gốc để nắm bắt bối cảnh, diễn biến chính, và cảm xúc cốt lõi của nhân vật. Đừng bắt đầu viết lại ngay lập tức.\n\n2.  **Chuyển đổi Ngôn ngữ và Phong cách:**\n    *   ***Sử dụng Ngôn ngữ Trực diện:*** Dùng từ ngữ thẳng, không né tránh.\n\n    *   ***Tập trung vào Chi tiết và Cảm xúc:*** Mô tả chi tiết, trần trụi các hành động. Nhấn mạnh vào *cảm xúc, ham muốn, suy nghĩ nội tâm* của nhân vật để câu chuyện có chiều sâu.\n\n3.  **Viết lại Câu chuyện:** Dựa trên sự thấu hiểu và các quy tắc ngôn ngữ, hãy viết lại câu chuyện bằng *văn phong của văn bản gốc*, đảm bảo sự mượt mà và lôi cuốn.\n</HƯỚNG_DẪN>\n\n<RÀNG_BUỘC>\nĐây là những quy tắc **BẮT BUỘC** phải tuân thủ:\n\n1.  **QUY TẮC CỐT LÕI:** **DỊCH Ý KHÔNG DỊCH WORD-BY-WORD.**\n\n2.  **ĐẠI TỪ NHÂN XƯNG:**\n    *   **CẤM DÙNG:** *tôi, bạn, anh, em, chàng.*\n\n3.  **TÊN RIÊNG:**\n    *   **Tên người Trung Quốc:** **Giữ nguyên 100%**.\n    *   **Tên người nước ngoài (không phải Trung Quốc):** **Chuyển đổi** sang tên tiếng Anh/Latin.\n    *   **Tên địa danh, công pháp, vật phẩm:** **Chuẩn hóa theo thể loại truyện**.\n</RÀNG_BUỘC>\n\n<ĐỊNH_DẠNG_ĐẦU_RA>\n*   **CHỈ** trả về văn bản tiếng Việt đã được viết lại.\n*   100% Việt hóa: Sử dụng (/[\u4e00-\u9fff]/.test) để kiểm tra, loại bỏ pinyin/ký tự Trung.\n*  Tôn trọng nguyên tác: Không thay đổi tình tiết, tính cách, logic.\n*  Kiểm tra chất lượng:\n   Nhất quán: Tên nhân vật, xưng hô không thay đổi trong văn bản.\n   Tự động kiểm tra: Scan lỗi pinyin (VD: 'nihao'), ký tự Trung (VD: 你好), thuật ngữ thô (VD: 'liền tựu thị').\n*   **TUYỆT ĐỐI KHÔNG** sử dụng Markdown (như **đậm**, *nghiêng*), không thêm bất kỳ ghi chú, lời bình, hay giải thích nào vào nội dung trả về.\n</ĐỊNH_DẠNG_ĐẦU_RA>\n\n<VÍ_DỤ>\n1.  **Ví dụ chuyển đổi tên người:**\n    | Tên gốc (Hán-Việt) | Tên kết quả (Mục tiêu) |\n    |---|---|\n    | vương lâm | Vương Lâm |\n    | hách mễ lạp | Hermila |\n\n2.  **Ví dụ giữ nguyên tên riêng khác:**\n    | Tên gốc | Tên kết quả (Mục Tiêu) |\n    |---|---|\n    | thanh vân kiếm | Thanh Vân Kiếm |\n    | hắc ám sâm lâm | Hắc Ám Sâm Lâm |\n</VÍ_DỤ>";
+        const defaultPrompt1 = "<VAI_TRÒ>\nBạn là một **CHUYÊN GIA VIẾT LẠI VĂN HỌC**. Thế mạnh của bạn là khả năng *diễn giải sâu sắc*, chuyển thể những văn bản gốc thành các tác phẩm văn học tiếng Việt *tự nhiên, trung thực và giàu cảm xúc*.\n</VAI_TRÒ>\n\n<MỤC_TIÊU>\nNhiệm vụ chính của bạn là viết lại văn bản được cung cấp. Mục tiêu không phải là dịch máy móc, mà là **sáng tạo lại nó** thành một tác phẩm văn học thuần Việt, mượt mà, *phù hợp với thể loại truyện tương ứng*.\n</MỤC_TIÊU>\n\n<BỐI_CẢNH>\nNgười dùng sẽ cung cấp một văn bản gốc dưới dạng Hán-Việt hỗn hợp. Bạn cần phải thấu hiểu nội dung, bối cảnh, và thể loại của đoạn văn đó để *viết lại*, làm cho nó trở nên dễ đọc và hấp dẫn hơn đối với độc giả Việt Nam.\n</BỐI_CẢNH>\n\n<HƯỚNG_DẪN>\nĐể hoàn thành mục tiêu, hãy tuân theo quy trình tư duy 3 bước sau:\n\n1.  **Phân tích Thể loại:** Đọc lướt qua văn bản gốc để **xác định thể loại chính** (ví dụ: tiên hiệp, đô thị, đồng nhân...). Đây là bước quan trọng nhất để chọn đúng phong cách ngôn ngữ.\n\n2.  **Lựa chọn và Áp dụng Phong cách Ngôn ngữ:** Dựa vào thể loại đã xác định, hãy sử dụng từ ngữ phù hợp. Tham khảo các bảng hướng dẫn dưới đây:\n\n    *   ***Với truyện Tiên hiệp, Huyền huyễn: Phong cách cổ trang.***\n\n    *   ***Với truyện Đô thị: Phong cách hiện đại.***\n\n    *   ***Với truyện Đồng nhân, có yếu tố Phương Tây/Anime/DC: Chuẩn hóa danh từ phù hợp với thể loại.***\n\n3.  **Viết lại một cách Tự nhiên:** Tập trung mô tả trung thực, chi tiết và cụ thể để làm cho câu chuyện sống động và đáng tin cậy.\n</HƯỚNG_DẪN>\n\n<RÀNG_BUỘC>\nĐây là những quy tắc **BẮT BUỘC** phải tuân thủ:\n\n1.  **QUY TẮC CỐT LÕI:** **DỊCH Ý KHÔNG DỊCH WORD-BY-WORD.**\n\n2.  **ĐẠI TỪ NHÂN XƯNG:**\n    *   **CẤM DÙNG:** *tôi, bạn, anh, em, chàng.*\n\n3.  **TÊN RIÊNG:**\n    *   **Tên người Trung Quốc:** **Giữ nguyên 100%**.\n    *   **Tên người nước ngoài (không phải Trung Quốc):** **Chuyển đổi** sang tên tiếng Anh/Latin.\n    *   **Tên địa danh, công pháp, vật phẩm:** **Chuẩn hóa theo thể loại truyện**.\n</RÀNG_BUỘC>\n\n<ĐỊNH_DẠNG_ĐẦU_RA>\n*   **CHỈ** trả về văn bản tiếng Việt đã được viết lại.\n*   100% Việt hóa: Sử dụng (/[\u4e00-\u9fff]/.test) để kiểm tra, loại bỏ pinyin/ký tự Trung.\n*  Tôn trọng nguyên tác: Không thay đổi tình tiết, tính cách, logic.\n*  Kiểm tra chất lượng:\n   Nhất quán: Tên nhân vật, xưng hô không thay đổi trong văn bản.\n   Tự động kiểm tra: Scan lỗi pinyin (VD: 'nihao'), ký tự Trung (VD: 你好), thuật ngữ thô (VD: 'liền tựu thị').\n*   **TUYỆT ĐỐI KHÔNG** sử dụng Markdown (như **đậm**, *nghiêng*), không thêm bất kỳ ghi chú, lời bình, hay giải thích nào vào nội dung trả về.\n</ĐỊNH_DẠNG_ĐẦU_RA>\n\n<VÍ_DỤ>\n1.  **Ví dụ chuyển đổi tên người:**\n    | Tên gốc | Tên kết quả (Mục tiêu) |\n    |---|---|\n    | vương lâm | Vương Lâm |\n    | hách mễ lạp | Hermila |\n\n2.  **Ví dụ giữ nguyên tên riêng khác:**\n    | Tên gốc (Hán-Việt) | Tên kết quả (Mục tiêu) |\n    |---|---|\n    | thanh vân kiếm | Thanh Vân Kiếm |\n    | hắc ám sâm lâm | Hắc Ám Sâm Lâm |\n</VÍ_DỤ>";
+        const defaultPrompt3 = "<VAI_TRÒ>\nBạn là một **BIÊN TẬP VIÊN CHUYÊN NGHIỆP**. Nhiệm vụ của bạn là mài giũa một văn bản thô thành một tác phẩm hoàn chỉnh, mượt mà và dễ đọc.\n</VAI_TRÒ>\n\n<MỤC_TIÊU>\nBiên tập lại văn bản *convert* thô được cung cấp thành một tác phẩm tiếng Việt *mượt mà, tự nhiên và trôi chảy*. Mục tiêu chính là loại bỏ sự lủng củng, khó hiểu của văn bản gốc.\n</MỤC_TIÊU>\n\n<BỐI_CẢNH>\nNgười dùng sẽ cung cấp một văn bản convert. Bạn cần đóng vai trò là người biên tập cuối cùng, chỉ tập trung vào việc làm cho câu chữ hay hơn mà không thay đổi nội dung gốc.\n</BỐI_CẢNH>\n\n<RÀNG_BUỘC>\nĐây là những quy tắc **BẮT BUỘC** phải tuân thủ:\n\n1.  **LÀM MƯỢT CÂU VĂN:**\n    *   Viết lại các câu lủng củng, tối nghĩa, sai ngữ pháp.\n    *   Sắp xếp lại trật tự từ để câu văn nghe tự nhiên hơn theo văn phong tiếng Việt.\n\n2.  **VIỆT HÓA TỪ NGỮ:**\n    *   Chủ động thay thế các từ Hán-Việt không thông dụng hoặc không cần thiết bằng các từ thuần Việt tương đương.\n    *   *Ví dụ:* `thân hình hóa tác nhất đạo lưu quang` -> `thân hình hóa thành một vệt sáng`.\n\n3.  **TUYỆT ĐỐI BẢO TOÀN NỘI DUNG:**\n    *   **KHÔNG** thêm, bớt hay thay đổi cốt truyện, tình tiết, hành động.\n    *   **GIỮ NGUYÊN 100% TẤT CẢ TÊN RIÊNG** (nhân vật, địa danh, công pháp, vật phẩm...).\n</RÀNG_BUỘC>\n\n<ĐỊNH_DẠNG_ĐẦU_RA>\n*   **CHỈ** trả về văn bản tiếng Việt đã được viết lại.\n*   100% Việt hóa: Sử dụng (/[\u4e00-\u9fff]/.test) để kiểm tra, loại bỏ pinyin/ký tự Trung.\n*  Tôn trọng nguyên tác: Không thay đổi tình tiết, tính cách, logic.\n*  Kiểm tra chất lượng:\n   Nhất quán: Tên nhân vật, xưng hô không thay đổi trong văn bản.\n   Tự động kiểm tra: Scan lỗi pinyin (VD: 'nihao'), ký tự Trung (VD: 你好), thuật ngữ thô (VD: 'liền tựu thị').\n*   **TUYỆT ĐỐI KHÔNG** sử dụng Markdown (như **đậm**, *nghiêng*), không thêm bất kỳ ghi chú, lời bình, hay giải thích nào vào nội dung trả về.\n</ĐỊNH_DẠNG_ĐẦU_RA>\n\n<VÍ_DỤ>\n*   **Văn bản gốc (Convert):**\n    `Ngã tâm niệm nhất động, thân hình hóa tác nhất đạo lưu quang, hướng về viễn phương bạo xạ nhi khứ.`\n*   **Kết quả mong muốn (Đã biên tập):**\n    `Tâm niệm hắn khẽ động, thân hình hóa thành một vệt sáng, lao vút về phía xa.`\n</VÍ_DỤ>";
+
+        for (let i = 0; i < languages.length; i++) {
+            let langId = languages[i].id;
+
+            if (langId && langId.includes("PROMPT_")) {
+
+                let existingPrompt = localStorage.getItem(langId);
+
+                if (!existingPrompt) {
+                    if (langId === 'PROMPT_tieuchuan') {
+                        localStorage.setItem(langId, defaultPrompt1);
+                    } else if (langId === 'PROMPT_sac') {
+                        localStorage.setItem(langId, defaultPrompt2);
+                    } else if (langId === 'PROMPT_vietlai') {
+                        localStorage.setItem(langId, defaultPrompt3);
+                    } else if (langId === 'PROMPT_xoacache') {
+                        continue;
+                    }
+                    else localStorage.setItem(langId, "<VAI_TRÒ>\n</VAI_TRÒ>\n<MỤC_TIÊU>\nDịch sang Tiếng Việt\n</MỤC_TIÊU>\n<BỐI_CẢNH>\n</BỐI_CẢNH>\n<HƯỚNG_DẪN>\n</HƯỚNG_DẪN>\n<RÀNG_BUỘC>\n</RÀNG_BUỘC>\n<ĐỊNH_DẠNG_ĐẦU_RA>\n*   **CHỈ** trả về văn bản tiếng Việt đã được viết lại.\n*   100% Việt hóa: Sử dụng (/[\u4e00-\u9fff]/.test) để kiểm tra, loại bỏ pinyin/ký tự Trung.\n*  Tôn trọng nguyên tác: Không thay đổi tình tiết, tính cách, logic.\n*  Kiểm tra chất lượng:\n   Nhất quán: Tên nhân vật, xưng hô không thay đổi trong văn bản.\n   Tự động kiểm tra: Scan lỗi pinyin (VD: 'nihao'), ký tự Trung (VD: 你好), thuật ngữ thô (VD: 'liền tựu thị').\n*   **TUYỆT ĐỐI KHÔNG** sử dụng Markdown (như **đậm**, *nghiêng*), không thêm bất kỳ ghi chú, lời bình, hay giải thích nào vào nội dung trả về.\n</ĐỊNH_DẠNG_ĐẦU_RA>\n<VÍ_DỤ>\n</VÍ_DỤ>\n LƯU Ý 2: KHÔNG ĐƯỢC SỬ DỤNG DẤU NHÁY KÉP, NHÁY ĐƠN TRONG PROM sẽ gây lỗi");
+                }
+                prompts[langId] = localStorage.getItem(langId);
+            }
+        }
+    } catch (e) {}
+
+    if (!text || text.trim() === '') {
+        return Response.success("?");
+    }
+// Xử lý gộp key từ config và localStorage
+    var combinedApiKeys = [].concat(apiKeys);
+
+    let uniqueKeys = [];
+    let seenKeys = {};
+    for (let i = 0; i < combinedApiKeys.length; i++) {
+        if (!seenKeys[combinedApiKeys[i]]) {
+            seenKeys[combinedApiKeys[i]] = true;
+            uniqueKeys.push(combinedApiKeys[i]);
+        }
+    }
+    combinedApiKeys = uniqueKeys;
+// Xoay vòng key
+    var apiKeyStorageKey = "vbook_last_api_key_index";
+    var rotatedApiKeys = combinedApiKeys;
+    try {
+        if (combinedApiKeys && combinedApiKeys.length > 1) {
+            let lastUsedIndex = parseInt(cacheStorage.getItem(apiKeyStorageKey) || "-1");
+            let nextIndex = (lastUsedIndex + 1) % combinedApiKeys.length;
+            rotatedApiKeys = combinedApiKeys.slice(nextIndex).concat(combinedApiKeys.slice(0, nextIndex));
+            cacheStorage.setItem(apiKeyStorageKey, nextIndex.toString());
+        }
+    } catch (e) {
+        rotatedApiKeys = combinedApiKeys;
+    }
+
+    var lines = text.split('\n');
+
+    if (to === 'PROMPT_xoacache') {
+            let cacheKeyToDelete = generateFingerprintCacheKey(lines);
+            if (cacheStorage.getItem(cacheKeyToDelete) !== null) {
+                cacheStorage.removeItem(cacheKeyToDelete);
+                return Response.success("Đã xóa cache của chương này thành công." + text);
+            }
+        return Response.success(text);
+    }
+
+    let isShortTextOrList = false;
+    let lengthThreshold = 1000;
+    let lineLengthThreshold = 25;
+    if (to === 'PROMPT_vietlai') {
+        lengthThreshold = 1200;
+        lineLengthThreshold = 50;
+    }
+    if (text.length < lengthThreshold) {
+        isShortTextOrList = true;
+    } else {
+        let shortLinesCount = 0;
+        let totalLines = lines.length;
+        if (totalLines > 0) {
+            for (let i = 0; i < totalLines; i++) {
+                if (lines[i].length < lineLengthThreshold || lines[i].toLowerCase().includes("chương") || lines[i].includes("章")) { shortLinesCount++; }
+            }
+            if ((shortLinesCount / totalLines) > 0.7) {
+                isShortTextOrList = true;
+            }
+        }
+    }
+    if (to === 'PROMPT_vietlai' && isShortTextOrList) {
+        return Response.success(text);
+    }
+
+    var finalContent = "";
+    let useGeminiForShortText = false;
+
+    if (isShortTextOrList) {
+        let basicLangs = ['zh', 'en', 'vi', 'auto'];
+        if (basicLangs.indexOf(from) > -1 && basicLangs.indexOf(to) > -1) {
+            useGeminiForShortText = true;
+        }
+    }
+
+    if (isShortTextOrList && !useGeminiForShortText) {
+        const BAIDU_CHUNK_SIZE = 300;
+        let baiduTranslatedParts = [];
+
+        for (let i = 0; i < lines.length; i += BAIDU_CHUNK_SIZE) {
+            let currentChunkLines = lines.slice(i, i + BAIDU_CHUNK_SIZE);
+            let chunkText = currentChunkLines.join('\n');
+            let translatedChunk = baiduTranslateContent(chunkText, from, to, 0);
+            if (translatedChunk === null) {
+                return Response.error("Lỗi Baidu Translate. Vui lòng thử lại.");
+            }
+            baiduTranslatedParts.push(translatedChunk);
+        }
+        finalContent = baiduTranslatedParts.join('\n');
+    } else {
+        if (!rotatedApiKeys || rotatedApiKeys.length === 0) { return Response.error("LỖI: Vui lòng cấu hình ít nhất 1 API key."); }
+
+        var cacheKey = null;
+        if (!isShortTextOrList) {
+             try {
+                cacheKey = generateFingerprintCacheKey(lines);
+                let cachedTranslation = cacheStorage.getItem(cacheKey);
+                if (cachedTranslation) {
+                    return Response.success(cachedTranslation);
+                }
+            } catch (e) {
+                cacheKey = null;
+            }
+        }
+
+        let modelToUse = null;
+        let useModelLoop = false;
+        let isPinyinRoute = false;
+
+        if (from.includes('gemini')) {
+            modelToUse = from;
+        } else {
+            modelToUse = "gemini-2.5-flash-lite";
+        }
+        if (to.includes("gemini")) {
+            to = "vi";
+        }
+        if (to.includes("PROMPT_") && to !== "PROMPT_vietlai" && to !== "PROMPT_xoacache" && to !== "vi" && to !== "en" && to !== "zh" && to !== "auto") {
+            isPinyinRoute = true;
+        }
+
+        let selectedPrompt = prompts[to] || prompts['vi'];
+
+        let translationSuccessful = false;
+        let errorLog = {};
+        let modelsToIterate = useModelLoop ? models : [modelToUse];
+
+        for (let m = 0; m < modelsToIterate.length; m++) {
+            let currentModel = modelsToIterate[m];
+            let CHUNK_SIZE = 2000;
+            let MIN_LAST_CHUNK_SIZE = 100;
+            if (currentModel === "gemini-2.5-pro") {
+                CHUNK_SIZE = 1500; MIN_LAST_CHUNK_SIZE = 100;
+            } else if (currentModel === "gemini-2.5-flash" || currentModel === "gemini-2.5-flash-preview-09-2025" || currentModel === "gemini-2.0-flash-thinking-exp-01-21" || currentModel === "gemini-2.0-flash-exp") {
+                CHUNK_SIZE = 2000; MIN_LAST_CHUNK_SIZE = 100;
+            } else if (currentModel === "gemini-2.0-flash-001" || currentModel === "gemini-2.0-flash-lite-001") {
+                CHUNK_SIZE = 2000; MIN_LAST_CHUNK_SIZE = 100;
+            }
+            let textChunks = [];
+            let currentChunk = "";
+            let currentChunkLineCount = 0;
+//            const MAX_LINES_PER_CHUNK = 500;
+            for (let i = 0; i < lines.length; i++) {
+                let paragraph = lines[i];
+                if (currentChunk.length === 0 && paragraph.length >= CHUNK_SIZE) {
+                    textChunks.push(paragraph);
+                    continue;
+                }
+                if ((currentChunk.length + paragraph.length + 1 > CHUNK_SIZE) && currentChunk.length > 0 ) {
+                    textChunks.push(currentChunk);
+                    currentChunk = paragraph;
+                    currentChunkLineCount = 1;
+                } else {
+                    currentChunk = currentChunk ? (currentChunk + "\n" + paragraph) : paragraph;
+                    currentChunkLineCount++;
+                }
+            }
+            if (currentChunk.length > 0) textChunks.push(currentChunk);
+            if (textChunks.length > 1 && textChunks[textChunks.length - 1].length < MIN_LAST_CHUNK_SIZE) {
+                let lastChunk = textChunks.pop();
+                let secondLastChunk = textChunks.pop();
+                textChunks.push(secondLastChunk + "\n" + lastChunk);
+            }
+
+            let finalParts = [];
+            let currentModelFailed = false;
+            for (let k = 0; k < textChunks.length; k++) {
+                var chunkToSend = textChunks[k];
+                if (isPinyinRoute && !isShortTextOrList) {
+                    try {
+                        load("phienam.js");
+                        chunkToSend = phienAmToHanViet(chunkToSend, minname, maxname, repeatname, to, prusepa_processed);
+                    } catch (e) { return Response.error("LỖI: Không thể tải file phienam.js."); }
+                }
+
+                let chunkResult = translateChunkWithApiRetry(chunkToSend, selectedPrompt, currentModel, rotatedApiKeys, from, to);
+                if (chunkResult.status === 'success') {
+                    finalParts.push(chunkResult.data);
+                } else {
+                    errorLog[currentModel] = chunkResult.details;
+                    currentModelFailed = true;
+                    break;
+                }
+            }
+            if (!currentModelFailed) {
+                finalContent = finalParts.join('\n\n'); //modelsucess + " . " +
+                finalContent = finalContent.replace(/\*/g, '').trim();
+                translationSuccessful = true;
+                break;
+            }
+        }
+
+        if (!translationSuccessful) {
+            let errorString = "<<<<<--- LỖI DỊCH --->>>>>\n";
+            for (let modelName in errorLog) {
+                errorString += "\n--- Lỗi với Model: " + modelName + " ---\n";
+                if(errorLog[modelName]) errorString += errorLog[modelName].join("\n");
+            }
+            return Response.error(errorString);
+        }
+    }
+
+    if (cacheKey && finalContent && !finalContent.includes("LỖI DỊCH")) {
+        if (cacheableModels.indexOf(modelsucess.trim()) > -1 && to !== 'PROMPT_layname') {
+            try {
+                cacheStorage.setItem(cacheKey, finalContent.trim());
+            } catch (e) {}
+        }
+    }
+
+    return Response.success(finalContent);
+}

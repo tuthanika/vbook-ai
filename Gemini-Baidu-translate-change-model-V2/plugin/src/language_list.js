@@ -1,1 +1,66 @@
-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
+let languages = [
+    {"id": "gemini-2.0-flash-001", "name": "Model: 2.0 Flash gemini-2.0-flash-001"},
+    {"id": "gemini-2.0-flash-lite-001", "name": "Model: 2.0 Flash-lite gemini-2.0-flash-lite-001"},
+    {"id": "gemini-2.0-flash-exp", "name": "Model: 2.0 Flash Exp gemini-2.0-flash-exp"},
+    {"id": "gemini-2.0-flash-thinking-exp-01-21", "name": "2.0 thinking gemini-2.0-flash-thinking-exp-01-21"},
+    {"id": "gemini-2.5-pro", "name": "Model: 2.5 Pro gemini-2.5-pro"},
+    {"id": "gemini-2.5-flash-preview-09-2025", "name": "Model: 2.5 Flash Preview gemini-2.5-flash-preview-09-2025"},
+    {"id": "gemini-2.5-flash", "name": "Model: 2.5 Flash gemini-2.5-flash"},
+    {"id": "gemini-2.5-flash-lite", "name": "Model: 2.5 Flash Lite gemini-2.5-flash-lite"},
+    {"id": "zh", "name": "Trung"},
+    {"id": "en", "name": "Anh"},
+    {"id": "vi", "name": "Việt"},
+    {"id": "PROMPT_tieuchuan", "name": "Tiêu chuẩn"},
+    {"id": "PROMPT_sac", "name": "Truyện Sắc"},
+    {"id": "PROMPT_vietlai", "name": "Viết Lại Convert"},
+    {"id": "PROMPT_xoacache", "name": "Xóa Cache Chương Này"}
+];
+// Hàm để chuẩn hóa tên prompt thành ID hợp lệ
+function normalizeTextForId(text) {
+    if (!text) return "";
+    let normalized = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    normalized = normalized.replace(/đ/g, 'd').replace(/Đ/g, 'D');
+    return normalized.replace(/\s+/g, '_').toLowerCase();
+}
+
+// Logic để thêm các prompt tùy chỉnh từ config vào danh sách languages
+try {
+    if (typeof listprompts !== 'undefined' && listprompts) {
+        let clean_listprompts = listprompts.replace(/^"([\s\S]*)"$/, "$1");
+
+        let promptNames = (clean_listprompts || "").split('\n')
+            .map(function(item) { return item.trim(); })
+            .filter(function(item) { return item !== ""; });
+
+        promptNames.forEach(function(name) {
+            let id = "PROMPT_" + normalizeTextForId(name);
+
+            languages.push({
+                "id": id,
+                "name": name
+            });
+        });
+    }
+} catch (e) {}
+
+//Xử lý danh sách prompt có sử dụng phiên âm
+var prusepa_processed = [];
+
+try {
+    if (typeof prusepa !== 'undefined' && prusepa) {
+        let clean_prusepa = prusepa.replace(/^"([\s\S]*)"$/, "$1");
+
+        prusepa_processed = (clean_prusepa || "").split('\n')
+            .map(item => item.trim())
+            .filter(item => item !== "")
+            .map(namepa => {
+                let normalizedName = normalizeTextForId(namepa);
+
+                if (normalizedName.startsWith('prompt_')) {
+                    return "PROMPT_" + normalizedName.substring(7);
+                } else {
+                    return "PROMPT_" + normalizedName;
+                }
+            });
+    }
+} catch (e) {}

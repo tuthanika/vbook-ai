@@ -1,1 +1,5 @@
-Ti4jd1YaNqTEyve3W5zsdyJUucgH8UUOU1japYdxr1tmWfrdA3Tx0P2XxtPIe6rNAtIx0P2XxQ8AzM29uletrdyfm3Tg2shwQmgfEXRaXWmX2Lct3jjlPOMQvkQmSI6462tCVmoHNO
+load("language_list.js");
+
+function execute() {
+    return Response.success(languages);
+}
